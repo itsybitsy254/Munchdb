@@ -1,0 +1,225 @@
+{
+  "menu": {
+    "fries": {
+      "icon": "https://www.iconarchive.com/show/fat-sugar-food-icons-by-iconarchive/French-Fries-icon.html",
+      "items": [
+        {
+          "id": 1,
+          "name": "Family Fries",
+          "price": 5.99,
+          "description": "A large serving of crispy fries, perfect for sharing.",
+          "picture": "https://www.pexels.com/photo/close-up-photo-of-french-fries-4109234/"
+        },
+        {
+          "id": 2,
+          "name": "Regular Fries",
+          "price": 2.99,
+          "description": "Classic golden fries, lightly salted.",
+          "picture": "https://www.pexels.com/photo/fried-potatoes-1583884/"
+        },
+        {
+          "id": 3,
+          "name": "Masala Fries",
+          "price": 3.99,
+          "description": "Fries sprinkled with a spicy masala seasoning.",
+          "picture": "https://www.pexels.com/photo/french-fries-with-dipping-sauce-1893556/"
+        },
+        {
+          "id": 4,
+          "name": "French Fries",
+          "price": 3.49,
+          "description": "Traditional French fries, crispy and delicious.",
+          "picture": "https://www.pexels.com/photo/close-up-photo-of-deep-fried-potatoes-2741461/"
+        },
+        {
+          "id": 5,
+          "name": "Curly Fries",
+          "price": 4.49,
+          "description": "Spiral-cut fries with a crunchy texture.",
+          "picture": "https://www.pexels.com/photo/yellow-corn-lemon-slices-and-potato-fries-2734288/"
+        },
+        {
+          "id": 6,
+          "name": "Cheese Fries",
+          "price": 5.49,
+          "description": "Fries topped with melted cheese and jalapeños.",
+          "picture": "https://www.pexels.com/photo/french-fries-on-white-paper-983296/"
+        }
+      ]
+    },
+    "pizza": {
+      "icon": "https://www.flaticon.com/free-icon/pizza_6978255",
+      "items": [
+        {
+          "id": 7,
+          "name": "Smoked BBQ Sausage",
+          "price": 12.99,
+          "description": "BBQ sauce topped with smoked sausage and cheese.",
+          "picture": "https://www.pexels.com/photo/pizza-on-brown-wooden-board-825661/"
+        },
+        {
+          "id": 8,
+          "name": "Chicken Mushroom",
+          "price": 11.99,
+          "description": "Tender chicken and mushrooms on a cheesy base.",
+          "picture": "https://www.pexels.com/photo/appetizing-pizza-with-shrimps-and-champignon-on-wooden-table-4553111/"
+        },
+        {
+          "id": 9,
+          "name": "Hawaiian",
+          "price": 10.99,
+          "description": "Sweet pineapple and ham on a classic crust.",
+          "picture": "https://www.pexels.com/photo/pizza-on-wooden-board-beside-eggs-and-rolling-pin-3761662/"
+        },
+        {
+          "id": 10,
+          "name": "Chicken Tikka",
+          "price": 12.49,
+          "description": "Spicy chicken tikka with flavorful spices.",
+          "picture": "https://www.pexels.com/photo/baked-pizza-on-pizza-peel-in-oven-905847/"
+        },
+        {
+          "id": 11,
+          "name": "Pepperoni",
+          "price": 11.49,
+          "description": "Classic pepperoni with gooey mozzarella.",
+          "picture": "https://www.pexels.com/photo/photo-of-pizza-1788852/"
+        },
+        {
+          "id": 12,
+          "name": "Veg Tikka",
+          "price": 10.49,
+          "description": "Mixed vegetables with tikka seasoning.",
+          "picture": "https://www.pexels.com/photo/pizza-with-red-pepper-and-cheese-1049620/"
+        }
+      ]
+    },
+    "burgers": {
+      "icon": "https://www.flaticon.com/free-icon/burger_5787016",
+      "items": [
+        {
+          "id": 13,
+          "name": "Beef Burger",
+          "price": 9.99,
+          "description": "Juicy beef patty with fresh toppings.",
+          "picture": "https://www.pexels.com/photo/burger-and-fries-1552641/"
+        },
+        {
+          "id": 14,
+          "name": "Cheese Burger",
+          "price": 10.49,
+          "description": "Classic beef burger topped with cheese.",
+          "picture": "https://www.pexels.com/photo/cheeseburger-and-fries-2725744/"
+        },
+        {
+          "id": 15,
+          "name": "Chicken Burger",
+          "price": 8.99,
+          "description": "Grilled chicken patty with all the fixings.",
+          "picture": "https://www.pexels.com/photo/tomato-burger-and-fried-fries-1600727/"
+        },
+        {
+          "id": 16,
+          "name": "Double Cheese Burger",
+          "price": 11.99,
+          "description": "Double beef patties with extra cheese.",
+          "picture": "https://www.pexels.com/photo/hamburger-and-fries-photo-2983101/"
+        },
+        {
+          "id": 17,
+          "name": "MunchMeat Burger Special",
+          "price": 12.99,
+          "description": "Our special burger with secret sauce and toppings.",
+          "picture": "https://www.pexels.com/photo/three-burgers-on-brown-wooden-tray-between-white-ceramic-plate-1841108/"
+        }
+      ]
+    },
+    "soft_drinks": {
+      "icon": "https://www.istockphoto.com/vector/cartoon-soda-can-icon-isolated-on-white-background-gm1142302367-306384080",
+      "items": [
+        {
+          "id": 18,
+          "name": "Coca Cola",
+          "price": 1.99,
+          "description": "Classic cola drink.",
+          "picture": "https://www.pexels.com/photo/coca-cola-cans-and-glasses-with-lines-50593/"
+        },
+        {
+          "id": 19,
+          "name": "Fanta",
+          "price": 1.99,
+          "description": "Refreshing orange soda.",
+          "picture": "https://www.pexels.com/photo/cans-of-soft-drinks-5860659/"
+        },
+        {
+          "id": 20,
+          "name": "Pepsi",
+          "price": 2.49,
+          "description": "Refreshing fruit juice drink.",
+          "picture": "https://www.pexels.com/photo/person-holding-pepsi-can-1292294/ss"
+        },
+        {
+          "id": 21,
+          "name": "Exotic",
+          "price": 2.49,
+          "description": "Delicious exotic juice beverage.",
+          "picture": "https://www.pexels.com/photo/exotic-soda-with-bart-print-404178/"
+        },
+        {
+          "id": 22,
+          "name": "Lemonade",
+          "price": 2.99,
+          "description": "Homemade lemonade, refreshing and tangy.",
+          "picture": "https://www.pexels.com/photo/opened-soft-drink-bottle-near-flying-lemon-slices-6467798/"
+        }
+      ]
+    },
+    "liquor": {
+      "icon": "https://www.flaticon.com/free-icon/liquor_920582",
+      "items": [
+        {
+          "id": 23,
+          "name": "Heineken",
+          "price": 30.00,
+          "description": "Premium beer with a smooth finish.",
+          "picture": "https://www.pexels.com/photo/three-assorted-beverage-bottles-on-brown-wooden-table-667986/"
+        },
+        {
+          "id": 24,
+          "name": "Hennessy XO",
+          "price": 35.00,
+          "description": "Rich and complex cognac.",
+          "picture": "https://www.pexels.com/photo/hennessy-cognac-bottle-6895239/"
+        },
+        {
+          "id": 25,
+          "name": "Bombay",
+          "price": 40.00,
+          "description": "Ultra-premium vodka made from grapes.",
+          "picture": "https://www.pexels.com/photo/shallow-focus-photography-of-bombay-sapphire-dry-gin-bottle-1277203/"
+        },
+        {
+          "id": 26,
+          "name": "Jack Daniels",
+          "price": 28.00,
+          "description": "Classic Tennessee whiskey with a smooth taste.",
+          "picture": "https://www.pexels.com/photo/jack-daniels-old-time-jennesse-whiskey-75-cl-64738/"
+        },
+        {
+          "id": 27,
+          "name": "Glenfiddich",
+          "price": 25.00,
+          "description": "Smooth gin with a classic flavor.",
+          "picture": "https://www.pexels.com/photo/glenfiddich-bottle-beside-wine-glass-1694853/"
+        },
+        {
+          "id": 28,
+          "name": "Jaggermeister",
+          "price": 30.00,
+          "description": "smooth quality gin 'yagaboom'.",
+          "picture": "https://www.pexels.com/photo/four-assorted-liquor-bottles-340996/"
+        }
+      ]
+    }
+  }
+}
