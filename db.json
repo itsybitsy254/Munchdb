@@ -1,7 +1,7 @@
 {
   "menu": {
     "fries": {
-      "icon": "https://www.iconarchive.com/show/fat-sugar-food-icons-by-iconarchive/French-Fries-icon.html",
+
       "items": [
         {
           "id": 1,
@@ -48,7 +48,7 @@
       ]
     },
     "pizza": {
-      "icon": "https://www.flaticon.com/free-icon/pizza_6978255",
+
       "items": [
         {
           "id": 7,
@@ -95,7 +95,7 @@
       ]
     },
     "burgers": {
-      "icon": "https://www.flaticon.com/free-icon/burger_5787016",
+      
       "items": [
         {
           "id": 13,
@@ -135,7 +135,7 @@
       ]
     },
     "soft_drinks": {
-      "icon": "https://www.istockphoto.com/vector/cartoon-soda-can-icon-isolated-on-white-background-gm1142302367-306384080",
+
       "items": [
         {
           "id": 18,
@@ -175,7 +175,7 @@
       ]
     },
     "liquor": {
-      "icon": "https://www.flaticon.com/free-icon/liquor_920582",
+
       "items": [
         {
           "id": 23,
