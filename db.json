@@ -109,21 +109,21 @@
           "name": "Cheese Burger",
           "price": 10.49,
           "description": "Classic beef burger topped with cheese.",
-          "picture": "https://www.pexels.com/photo/cheeseburger-and-fries-2725744/"
+          "picture": "https://goldbelly.imgix.net/uploads/showcase_media_asset/image/79619/joes-kc-ribs-brisket-and-burnt-ends.6710e994980e485e6441b794717ad6fb.jpg?ixlib=react-9.0.2&auto=format&ar=1%3A1"
         },
         {
           "id": 15,
           "name": "Chicken Burger",
           "price": 8.99,
           "description": "Grilled chicken patty with all the fixings.",
-          "picture": "https://www.pexels.com/photo/tomato-burger-and-fried-fries-1600727/"
+          "picture": "https://www.pexels.com/photo/tomato-burger-and-fried-fries-1600727"
         },
         {
           "id": 16,
           "name": "Double Cheese Burger",
           "price": 11.99,
           "description": "Double beef patties with extra cheese.",
-          "picture": "https://www.pexels.com/photo/hamburger-and-fries-photo-2983101/"
+          "picture": "https://www.pexels.com/photo/hamburger-and-fries-photo-2983101"
         },
         {
           "id": 17,
