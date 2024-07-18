@@ -19,31 +19,31 @@
         },
         {
           "id": 3,
-          "name": "Whole-brisket-sausage-texas-BBQ-sauce",
+          "name": "Ugly Drum",
           "price": 3.99,
           "description": "Fries sprinkled with a spicy masala seasoning.",
-          "picture": "https://goldbelly.imgix.net/uploads/showcase_media_asset/image/131846/whole-brisket-sausage-texas-barbecue-bbq-sauce.ffb470cab2f454fd848faa5dddfe65f5.jpg?ixlib=react-9.0.2&auto=format&ar=1%3A1"
+          "picture": "https://goldbelly.imgix.net/uploads/showcase_media_asset/image/132122/the-big-ugly-bbq-dinner-for-6.2dfae7818811adddce85cc1a910881a0.jpeg?ixlib=react-9.0.2&auto=format&ar=1%3A1"
         },
         {
           "id": 4,
-          "name": "Ribs & Chicken Combo",
+          "name": "Mighty-Quinns-BBQ",
           "price": 3.49,
           "description": "Traditional French fries, crispy and delicious.",
-          "picture": "https://goldbelly.imgix.net/uploads/showcase_media_asset/image/133206/ribs-and-chicken-combo-pack-serves-6-8.cef1f90b5c3193c06e1c4b4cc9cff611.jpg?ixlib=react-9.0.2&auto=format&ar=1%3A1"
+          "picture": "https://goldbelly.imgix.net/uploads/showcase_media_asset/image/134182/mighty-quinns-bbq-sampler-pack.1bfe4a0665edc565756f5241bf25840e.jpg?ixlib=react-9.0.2&auto=format&ar=1%3A1"
         },
         {
           "id": 5,
-          "name": "Curly Fries",
+          "name": "Kings BBQ",
           "price": 4.49,
           "description": "Spiral-cut fries with a crunchy texture.",
-          "picture": "https://www.pexels.com/photo/yellow-corn-lemon-slices-and-potato-fries-2734288/"
+          "picture": "https://goldbelly.imgix.net/uploads/showcase_media_asset/image/66734/bbq-meat-lovers-special-for-10.36ca670fda4bfa783c2ea9165e068d26.jpg?ixlib=react-9.0.2&auto=format&ar=1%3A1"
         },
         {
           "id": 6,
-          "name": "BBQ Ribs & Pulled pork",
+          "name": "BBQ Ribs & Chicken combo",
           "price": 5.49,
           "description": "Fries topped with melted cheese and jalapeños.",
-          "picture": "https://goldbelly.imgix.net/uploads/showcase_media_asset/image/96250/bbq-ribs-and-pulled-pork-dinner-for-8.283f3612fdcc300876b961dc513056ea.jpg?ixlib=react-9.0.2&auto=format&ar=1%3A1"
+          "picture": "https://goldbelly.imgix.net/uploads/showcase_media_asset/image/126766/unconventional-texas-bbq-sampler-for-4-6.ee40a926a0863ceeb13b1eafb987c7d1.jpg?ixlib=react-9.0.2&auto=format&ar=1%3A1"
         }
       ]
     },
