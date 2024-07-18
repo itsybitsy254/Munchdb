@@ -175,50 +175,50 @@
         }
       ]
     },
-    "liquor": {
+    "Chicken & Wings": {
 
       "items": [
         {
           "id": 23,
-          "name": "Heineken",
+          "name": "Nashville Hot Chicken",
           "price": 30.00,
           "description": "Premium beer with a smooth finish.",
-          "picture": "https://www.pexels.com/photo/three-assorted-beverage-bottles-on-brown-wooden-table-667986/"
+          "picture": "https://goldbelly.imgix.net/uploads/showcase_media_asset/image/133718/nashville-hot-jumbo-chicken-tenders-family-meal-for-8.4dfbb330cc846e6157ca5556bba659f9.jpg?ixlib=react-9.0.2&auto=format&ar=1%3A1"
         },
         {
           "id": 24,
-          "name": "Hennessy XO",
+          "name": "Chicken Drums & Jumbo wings",
           "price": 35.00,
           "description": "Rich and complex cognac.",
-          "picture": "https://www.pexels.com/photo/hennessy-cognac-bottle-6895239/"
+          "picture": "https://goldbelly.imgix.net/uploads/showcase_media_asset/image/132683/the-big-game-combo-fried-chicken-drums-and-jumbo-wings-for-12.3139f00d0c50b0fa18739175561f0841.jpg?ixlib=react-9.0.2&auto=format&ar=1%3A1"
         },
         {
           "id": 25,
-          "name": "Bombay",
+          "name": "Gold Fried Turkey",
           "price": 40.00,
           "description": "Ultra-premium vodka made from grapes.",
-          "picture": "https://www.pexels.com/photo/shallow-focus-photography-of-bombay-sapphire-dry-gin-bottle-1277203/"
+          "picture": "https://goldbelly.imgix.net/uploads/showcase_media_asset/image/72664/cajun-mild-deep-fried-turkey.6fc839ea4311c28f322e437829097e54.jpg?ixlib=react-9.0.2&auto=format&ar=1%3A1"
         },
         {
           "id": 26,
-          "name": "Jack Daniels",
+          "name": "Korean Fried Crispy Chicken",
           "price": 28.00,
           "description": "Classic Tennessee whiskey with a smooth taste.",
-          "picture": "https://www.pexels.com/photo/jack-daniels-old-time-jennesse-whiskey-75-cl-64738/"
+          "picture": "https://goldbelly.imgix.net/uploads/showcase_media_asset/image/123866/korean-fried-chicken-20-pack.3d78b065e21594f4ff152ebd439fa147.jpg?ixlib=react-9.0.2&auto=format&ar=1%3A1"
         },
         {
           "id": 27,
-          "name": "Glenfiddich",
+          "name": "Chicken Dumplings",
           "price": 25.00,
           "description": "Smooth gin with a classic flavor.",
-          "picture": "https://www.pexels.com/photo/glenfiddich-bottle-beside-wine-glass-1694853/"
+          "picture": "https://goldbelly.imgix.net/uploads/showcase_media_asset/image/97105/chicken-jiaozi-dumplings-20-pack.15df330a0f96492d492d6f3ed6518aa8.jpg?ixlib=react-9.0.2&auto=format&ar=1%3A1"
         },
         {
           "id": 28,
-          "name": "Jaggermeister",
+          "name": "Hot Party Wings",
           "price": 30.00,
           "description": "smooth quality gin 'yagaboom'.",
-          "picture": "https://www.pexels.com/photo/four-assorted-liquor-bottles-340996/"
+          "picture": "https://goldbelly.imgix.net/uploads/showcase_media_asset/image/127462/whole-party-wings-24-pack.b364415bd3fb0b78090d200242f60f04.jpg?ixlib=react-9.0.2&auto=format&ar=1%3A1"
         }
       ]
     }
