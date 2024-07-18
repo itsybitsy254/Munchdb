@@ -47,50 +47,50 @@
         }
       ]
     },
-    "pizza": {
+    "Bread & Breakfast": {
 
       "items": [
         {
           "id": 7,
-          "name": "Smoked BBQ Sausage",
+          "name": "Jpanese-milk-bread",
           "price": 12.99,
           "description": "BBQ sauce topped with smoked sausage and cheese.",
-          "picture": "https://www.pexels.com/photo/pizza-on-brown-wooden-board-825661/"
+          "picture": "https://goldbelly.imgix.net/uploads/showcase_media_asset/image/95387/japanese-milk-bread.5c3e3677db6b145b659e702af3098337.jpg?ixlib=react-9.0.2&auto=format&ar=1%3A1"
         },
         {
           "id": 8,
-          "name": "Chicken Mushroom",
+          "name": "Bavarian Soft Pretzel",
           "price": 11.99,
           "description": "Tender chicken and mushrooms on a cheesy base.",
-          "picture": "https://www.pexels.com/photo/appetizing-pizza-with-shrimps-and-champignon-on-wooden-table-4553111/"
+          "picture": "https://goldbelly.imgix.net/uploads/showcase_media_asset/image/133455/bavarian-soft-pretzel-twists-10-pack.0f8c34ca7341a525bd581924bd9f030f.jpg?ixlib=react-9.0.2&auto=format&ar=1%3A1"
         },
         {
           "id": 9,
-          "name": "Hawaiian",
+          "name": "Garlic Bread",
           "price": 10.99,
           "description": "Sweet pineapple and ham on a classic crust.",
-          "picture": "https://www.pexels.com/photo/pizza-on-wooden-board-beside-eggs-and-rolling-pin-3761662/"
+          "picture": "https://goldbelly.imgix.net/uploads/showcase_media_asset/image/131203/garlic-bread-for-4-6.a227994dee61ef69e777a6a8ac1eadde.jpg?ixlib=react-9.0.2&auto=format&ar=1%3A1"
         },
         {
           "id": 10,
-          "name": "Chicken Tikka",
+          "name": "Cheese Bread",
           "price": 12.49,
           "description": "Spicy chicken tikka with flavorful spices.",
-          "picture": "https://www.pexels.com/photo/baked-pizza-on-pizza-peel-in-oven-905847/"
+          "picture": "https://goldbelly.imgix.net/uploads/showcase_media_asset/image/129676/hot-and-spicy-cheese-bread-2-pack.014477417093300bfb5e9ed8645bd0a5.jpg?ixlib=react-9.0.2&auto=format&ar=1%3A1"
         },
         {
           "id": 11,
-          "name": "Pepperoni",
+          "name": "Artisana Bread",
           "price": 11.49,
           "description": "Classic pepperoni with gooey mozzarella.",
-          "picture": "https://www.pexels.com/photo/photo-of-pizza-1788852/"
+          "picture": "https://goldbelly.imgix.net/uploads/showcase_media_asset/image/106973/babka-choose-your-own-2-pack.7f0a32a47bf3e7d9582b94b6aaabbb10.jpg?ixlib=react-9.0.2&auto=format&ar=1%3A1"
         },
         {
           "id": 12,
-          "name": "Veg Tikka",
+          "name": "Ceci-Cela Patisserie",
           "price": 10.49,
           "description": "Mixed vegetables with tikka seasoning.",
-          "picture": "https://www.pexels.com/photo/pizza-with-red-pepper-and-cheese-1049620/"
+          "picture": "https://goldbelly.imgix.net/uploads/showcase_media_asset/image/90466/pain-au-chocolat-8-pack.58a1a9fdc9920b4b8406fbb98a304a68.jpg?ixlib=react-9.0.2&auto=format&ar=1%3A1"
         }
       ]
     },
