@@ -1,224 +1,232 @@
 {
   "menu": {
     "Ribs & Steak": {
-
       "items": [
         {
           "id": 1,
-          "name": "ribs-brisket-and-burnt-ends",
-          "price": 5.99,
-          "description": "A large serving of Ribs and brisket perfect for sharing.",
+          "name": "Savory Brisket & Burnt Ends",
+          "price": 19.99,
+          "description": "A generous portion of tender brisket and crispy burnt ends, perfect for sharing.",
           "picture": "https://goldbelly.imgix.net/uploads/showcase_media_asset/image/79619/joes-kc-ribs-brisket-and-burnt-ends.6710e994980e485e6441b794717ad6fb.jpg?ixlib=react-9.0.2&auto=format&ar=1%3A1"
         },
         {
           "id": 2,
-          "name": "ribs-and-pulled-pork-medium-combo-pack",
-          "price": 2.99,
-          "description": "Classic golden fries, lightly salted.",
+          "name": "Pulled Pork & Rib Combo",
+          "price": 15.99,
+          "description": "A delightful mix of succulent pulled pork and mouth-watering ribs.",
           "picture": "https://goldbelly.imgix.net/uploads/showcase_media_asset/image/137368/Central-BBQ-Ribs-Pulled-Pork-Party-Pack-1_.jpg?ixlib=react-9.0.2&auto=format&ar=1%3A1"
         },
         {
           "id": 3,
-          "name": "Ugly Drum",
-          "price": 3.99,
-          "description": "Fries sprinkled with a spicy masala seasoning.",
+          "name": "Ugly Drum BBQ Feast",
+          "price": 18.99,
+          "description": "A feast of savory BBQ with our special seasoning, perfect for any occasion.",
           "picture": "https://goldbelly.imgix.net/uploads/showcase_media_asset/image/132122/the-big-ugly-bbq-dinner-for-6.2dfae7818811adddce85cc1a910881a0.jpeg?ixlib=react-9.0.2&auto=format&ar=1%3A1"
         },
         {
           "id": 4,
-          "name": "Mighty-Quinns-BBQ",
-          "price": 3.49,
-          "description": "Traditional French fries, crispy and delicious.",
+          "name": "Mighty Quinn's BBQ Sampler",
+          "price": 17.99,
+          "description": "A sampler of our finest BBQ offerings, including ribs, brisket, and pulled pork.",
           "picture": "https://goldbelly.imgix.net/uploads/showcase_media_asset/image/134182/mighty-quinns-bbq-sampler-pack.1bfe4a0665edc565756f5241bf25840e.jpg?ixlib=react-9.0.2&auto=format&ar=1%3A1"
         },
         {
           "id": 5,
-          "name": "Kings BBQ",
-          "price": 4.49,
-          "description": "Spiral-cut fries with a crunchy texture.",
+          "name": "King's Ultimate BBQ Platter",
+          "price": 22.99,
+          "description": "A royal selection of ribs, brisket, and sausage for the true BBQ lover.",
           "picture": "https://goldbelly.imgix.net/uploads/showcase_media_asset/image/66734/bbq-meat-lovers-special-for-10.36ca670fda4bfa783c2ea9165e068d26.jpg?ixlib=react-9.0.2&auto=format&ar=1%3A1"
         },
         {
           "id": 6,
-          "name": "BBQ Ribs & Chicken combo",
-          "price": 5.49,
-          "description": "Fries topped with melted cheese and jalapeños.",
+          "name": "BBQ Ribs & Chicken Combo",
+          "price": 20.99,
+          "description": "A delicious combination of our famous BBQ ribs and tender chicken.",
           "picture": "https://goldbelly.imgix.net/uploads/showcase_media_asset/image/126766/unconventional-texas-bbq-sampler-for-4-6.ee40a926a0863ceeb13b1eafb987c7d1.jpg?ixlib=react-9.0.2&auto=format&ar=1%3A1"
         }
       ]
     },
     "Bread & Breakfast": {
-
       "items": [
         {
           "id": 7,
-          "name": "Korea-cheese-bread",
+          "name": "Korean Cream Cheese Delight",
           "price": 12.99,
-          "description": "BBQ sauce topped with smoked sausage and cheese.",
+          "description": "Soft and creamy Korean cheese bread, perfect for breakfast or a snack.",
           "picture": "https://goldbelly.imgix.net/uploads/showcase_media_asset/image/105212/korean-cream-cheese-bread-choose-your-own-2-pack.8b70b1b0f22846a1c0267b24a59378b2.jpg?ixlib=react-9.0.2&auto=format&ar=1%3A1"
         },
         {
           "id": 8,
-          "name": "Bavarian Soft Pretzel",
+          "name": "Bavarian Soft Pretzel Twists",
           "price": 11.99,
-          "description": "Tender chicken and mushrooms on a cheesy base.",
+          "description": "Classic Bavarian soft pretzels, perfectly salted and ready to dip.",
           "picture": "https://goldbelly.imgix.net/uploads/showcase_media_asset/image/133455/bavarian-soft-pretzel-twists-10-pack.0f8c34ca7341a525bd581924bd9f030f.jpg?ixlib=react-9.0.2&auto=format&ar=1%3A1"
         },
         {
           "id": 9,
-          "name": "Garlic Bread",
+          "name": "Garlic Bread Supreme",
           "price": 10.99,
-          "description": "Sweet pineapple and ham on a classic crust.",
+          "description": "Crispy garlic bread with a buttery, garlicky flavor.",
           "picture": "https://goldbelly.imgix.net/uploads/showcase_media_asset/image/131203/garlic-bread-for-4-6.a227994dee61ef69e777a6a8ac1eadde.jpg?ixlib=react-9.0.2&auto=format&ar=1%3A1"
         },
         {
           "id": 10,
-          "name": "Cheese Bread",
+          "name": "Cheesy Bread Delight",
           "price": 12.49,
-          "description": "Spicy chicken tikka with flavorful spices.",
+          "description": "Warm and cheesy bread, a perfect comfort food.",
           "picture": "https://goldbelly.imgix.net/uploads/showcase_media_asset/image/129676/hot-and-spicy-cheese-bread-2-pack.014477417093300bfb5e9ed8645bd0a5.jpg?ixlib=react-9.0.2&auto=format&ar=1%3A1"
         },
         {
           "id": 11,
-          "name": "Artisana Bread",
+          "name": "Artisanal Bread Selection",
           "price": 11.49,
-          "description": "Classic pepperoni with gooey mozzarella.",
+          "description": "A variety of handcrafted breads, perfect for any meal.",
           "picture": "https://goldbelly.imgix.net/uploads/showcase_media_asset/image/106973/babka-choose-your-own-2-pack.7f0a32a47bf3e7d9582b94b6aaabbb10.jpg?ixlib=react-9.0.2&auto=format&ar=1%3A1"
         },
         {
           "id": 12,
-          "name": "Ceci-Cela Patisserie",
+          "name": "Ceci-Cela Pastry Assortment",
           "price": 10.49,
-          "description": "Mixed vegetables with tikka seasoning.",
+          "description": "An assortment of delicious pastries from Ceci-Cela Patisserie.",
           "picture": "https://goldbelly.imgix.net/uploads/showcase_media_asset/image/90466/pain-au-chocolat-8-pack.58a1a9fdc9920b4b8406fbb98a304a68.jpg?ixlib=react-9.0.2&auto=format&ar=1%3A1"
         }
       ]
     },
-    "burgers": {
-      
+    "Burgers": {
       "items": [
         {
           "id": 13,
-          "name": "Juicy Lucifer Burger-kit",
-          "price": 9.99,
-          "description": "Juicy beef patty with fresh toppings.",
+          "name": "Juicy Lucifer Burger Kit",
+          "price": 14.99,
+          "description": "Our signature juicy beef burger kit, perfect for grilling at home.",
           "picture": "https://goldbelly.imgix.net/uploads/showcase_media_asset/image/120623/juicy-lucifer-burger-kit-for-4.5a231c2ed989431218aa6062ff89b20a.jpg?ixlib=react-9.0.2&auto=format&ar=1%3A1"
         },
         {
           "id": 14,
-          "name": "Teriyaki Burger",
-          "price": 10.49,
-          "description": "Classic beef burger topped with cheese.",
+          "name": "Teriyaki Beef Burger",
+          "price": 12.49,
+          "description": "A flavorful beef burger topped with savory teriyaki sauce.",
           "picture": "https://goldbelly.imgix.net/uploads/showcase_media_asset/image/137097/Hall-by-Odo-Foie-Gras-Burger-1.jpg?ixlib=react-9.0.2&auto=format&ar=1%3A1"
         },
         {
           "id": 15,
           "name": "Double Stack Burger",
-          "price": 8.99,
-          "description": "Grilled chicken patty with all the fixings.",
+          "price": 13.99,
+          "description": "Two juicy beef patties stacked high with cheese and toppings.",
           "picture": "https://goldbelly.imgix.net/uploads/showcase_media_asset/image/132733/handf-double-stack-burger-kit-for-2.4ecf6b1bee6b0ecef3b82606860a1b5b.jpg?ixlib=react-9.0.2&auto=format&ar=1%3A1"
         },
         {
           "id": 16,
           "name": "Gold Label Burger",
-          "price": 11.99,
-          "description": "Double beef patties with extra cheese.",
-          "picture": "https://goldbelly.imgix.net/uploads/showcase_media_asset/image/130074/the-gold-label-burger-4-patties-6oz-each-15-lbs.492945fff05ba5f036eca31df024d22f.jpg?ixlib=react-9.0.2&auto=format&ar=1%3A1"
+          "price": 16.99,
+          "description": "A premium burger with gold label beef patties and gourmet toppings.",
+          "picture": "https://goldbelly.imgix.net/uploads/showcase_media_asset/image/110112/gold-label-burger-kit-for-6-8.1b11d6ba3484fc6a2f7602eb40344d88.jpg?ixlib=react-9.0.2&auto=format&ar=1%3A1"
         },
         {
           "id": 17,
-          "name": "MunchMeat Burger Special",
-          "price": 12.99,
-          "description": "Our special burger with secret sauce and toppings.",
-          "picture": "https://goldbelly.imgix.net/uploads/showcase_media_asset/image/137095/Hall-by-Odo-Signature-Burger-1.jpg?ixlib=react-9.0.2&auto=format&ar=1%3A1"
+          "name": "MunchMeat Special Burger",
+          "price": 15.99,
+          "description": "A special burger featuring our unique MunchMeat blend.",
+          "picture": "https://goldbelly.imgix.net/uploads/showcase_media_asset/image/110120/blue-label-burger-kit-for-4.33e0fc25e5b494eaa5392a39b6c8bb1f.jpg?ixlib=react-9.0.2&auto=format&ar=1%3A1"
+        },
+        {
+          "id": 18,
+          "name": "Ultimate Truffle Burger",
+          "price": 18.49,
+          "description": "A luxurious burger with truffle aioli and premium toppings.",
+          "picture": "https://goldbelly.imgix.net/uploads/showcase_media_asset/image/127537/truffle-burger-kit-4-pack.fabae5cd645aa968e7e3e5302c497fc6.jpg?ixlib=react-9.0.2&auto=format&ar=1%3A1"
         }
-
       ]
     },
     "Pizza": {
-
       "items": [
         {
-          "id": 18,
-          "name": "Slim & Huskys",
-          "price": 1.99,
-          "description": "Classic cola drink.",
-          "picture": "https://goldbelly.imgix.net/uploads/showcase_media_asset/image/134259/pizza-choose-your-own-4-pack.bc138c4f695f74bf78f13204865a9c5b.jpg?ixlib=react-9.0.2&auto=format&ar=1%3A1"
-        },
-        {
           "id": 19,
-          "name": "Brick Oven Pizza",
-          "price": 1.99,
-          "description": "Refreshing orange soda.",
-          "picture": "https://goldbelly.imgix.net/uploads/showcase_media_asset/image/71231/wood-fired-pizza-4-pack.8818b2e71ad1149790d0c03413d11996.png?ixlib=react-9.0.2&auto=format&ar=1%3A1"
+          "name": "Slim & Huskys Pizza",
+          "price": 15.49,
+          "description": "A delicious pizza topped with fresh ingredients and a unique sauce blend.",
+          "picture": "https://goldbelly.imgix.net/uploads/showcase_media_asset/image/134919/slim-huskys-pizza-packs-3-pack.0ff1635b8a27a25e6f2356b7752b7102.jpg?ixlib=react-9.0.2&auto=format&ar=1%3A1"
         },
         {
           "id": 20,
-          "name": "Neapolitan Pizza",
-          "price": 2.49,
-          "description": "Refreshing fruit juice drink.",
-          "picture": "https://goldbelly.imgix.net/uploads/showcase_media_asset/image/131875/wood-fired-pizza-choose-your-own-6-pack.fa6cf8ffff1241d50c27d804e566d605.jpg?ixlib=react-9.0.2&auto=format&ar=1%3A1"
+          "name": "Brick Oven Pizza",
+          "price": 14.99,
+          "description": "Classic pizza cooked to perfection in a traditional brick oven.",
+          "picture": "https://goldbelly.imgix.net/uploads/showcase_media_asset/image/125312/brick-oven-pizza-choose-your-own-5-pack.07ecb69b6bb0dbe4a7aaefb19eb4d6ea.jpg?ixlib=react-9.0.2&auto=format&ar=1%3A1"
         },
         {
           "id": 21,
-          "name": "Chicago style pizza",
-          "price": 2.49,
-          "description": "Chicago Style Pizza",
-          "picture": "https://goldbelly.imgix.net/uploads/showcase_media_asset/image/135044/chicago-style-pizza-choose-your-own-3-pack.c97386b561818a977030178b06fa5bda.jpg?ixlib=react-9.0.2&auto=format&ar=1%3A1"
+          "name": "Neapolitan Pizza",
+          "price": 13.99,
+          "description": "Authentic Neapolitan pizza with a soft, chewy crust and fresh toppings.",
+          "picture": "https://goldbelly.imgix.net/uploads/showcase_media_asset/image/133019/neapolitan-pizza-4-pack.e763993b28a0605bcd39b31b16704c1b.jpg?ixlib=react-9.0.2&auto=format&ar=1%3A1"
         },
         {
           "id": 22,
-          "name": "Pepperoni",
-          "price": 2.99,
-          "description": "Homemade lemonade, refreshing and tangy.",
-          "picture": "https://goldbelly.imgix.net/uploads/showcase_media_asset/image/131666/buffalo-style-pepperoni-pizza-4-pack.1c5ea10d8c7176f0ad4eef363a1f3543.jpg?ixlib=react-9.0.2&auto=format&ar=1%3A1"
+          "name": "Chicago Style Deep Dish",
+          "price": 16.49,
+          "description": "A hearty, deep-dish pizza loaded with cheese and toppings.",
+          "picture": "https://goldbelly.imgix.net/uploads/showcase_media_asset/image/128725/deep-dish-pizza-2-pack.b7db776e5fa048cc2292c423fa656826.jpg?ixlib=react-9.0.2&auto=format&ar=1%3A1"
+        },
+        {
+          "id": 23,
+          "name": "Pepperoni Pizza Classic",
+          "price": 12.99,
+          "description": "A classic pizza topped with a generous amount of pepperoni slices.",
+          "picture": "https://goldbelly.imgix.net/uploads/showcase_media_asset/image/133153/pepperoni-pizza-6-pack.6f2eae89ec241353c769823fd9501710.jpg?ixlib=react-9.0.2&auto=format&ar=1%3A1"
+        },
+        {
+          "id": 24,
+          "name": "Ultimate Veggie Pizza",
+          "price": 14.99,
+          "description": "A healthy option loaded with a variety of fresh vegetables.",
+          "picture": "https://goldbelly.imgix.net/uploads/showcase_media_asset/image/127680/veggie-lovers-pizza-pack-3-pack.d3b798d3af054237a2b9b16e1b0ed19e.jpg?ixlib=react-9.0.2&auto=format&ar=1%3A1"
         }
       ]
     },
     "Chicken & Wings": {
-
       "items": [
         {
-          "id": 23,
-          "name": "Nashville Hot Chicken",
-          "price": 30.00,
-          "description": "Premium beer with a smooth finish.",
-          "picture": "https://goldbelly.imgix.net/uploads/showcase_media_asset/image/133718/nashville-hot-jumbo-chicken-tenders-family-meal-for-8.4dfbb330cc846e6157ca5556bba659f9.jpg?ixlib=react-9.0.2&auto=format&ar=1%3A1"
-        },
-        {
-          "id": 24,
-          "name": "Chicken Drums & Jumbo wings",
-          "price": 35.00,
-          "description": "Rich and complex cognac.",
-          "picture": "https://goldbelly.imgix.net/uploads/showcase_media_asset/image/132683/the-big-game-combo-fried-chicken-drums-and-jumbo-wings-for-12.3139f00d0c50b0fa18739175561f0841.jpg?ixlib=react-9.0.2&auto=format&ar=1%3A1"
-        },
-        {
           "id": 25,
-          "name": "Gold Fried Turkey",
-          "price": 40.00,
-          "description": "Ultra-premium vodka made from grapes.",
-          "picture": "https://goldbelly.imgix.net/uploads/showcase_media_asset/image/72664/cajun-mild-deep-fried-turkey.6fc839ea4311c28f322e437829097e54.jpg?ixlib=react-9.0.2&auto=format&ar=1%3A1"
+          "name": "Nashville Hot Chicken",
+          "price": 13.99,
+          "description": "Spicy Nashville-style hot chicken, crispy and flavorful.",
+          "picture": "https://goldbelly.imgix.net/uploads/showcase_media_asset/image/116034/nashville-hot-chicken-10-pack.320eefb4db06639a4c4b31ae1f3c3d34.jpg?ixlib=react-9.0.2&auto=format&ar=1%3A1"
         },
         {
           "id": 26,
-          "name": "Korean Fried Crispy Chicken",
-          "price": 28.00,
-          "description": "Classic Tennessee whiskey with a smooth taste.",
-          "picture": "https://goldbelly.imgix.net/uploads/showcase_media_asset/image/123866/korean-fried-chicken-20-pack.3d78b065e21594f4ff152ebd439fa147.jpg?ixlib=react-9.0.2&auto=format&ar=1%3A1"
+          "name": "Chicken Drums & Jumbo Wings",
+          "price": 14.99,
+          "description": "A combination of juicy chicken drums and jumbo wings.",
+          "picture": "https://goldbelly.imgix.net/uploads/showcase_media_asset/image/112251/jumbo-chicken-wings-50-pack.1a49a679bdb01c04aee474bfc125d216.jpg?ixlib=react-9.0.2&auto=format&ar=1%3A1"
         },
         {
           "id": 27,
-          "name": "Chicken Dumplings",
-          "price": 25.00,
-          "description": "Smooth gin with a classic flavor.",
-          "picture": "https://goldbelly.imgix.net/uploads/showcase_media_asset/image/97105/chicken-jiaozi-dumplings-20-pack.15df330a0f96492d492d6f3ed6518aa8.jpg?ixlib=react-9.0.2&auto=format&ar=1%3A1"
+          "name": "Gold Fried Turkey",
+          "price": 19.99,
+          "description": "Crispy fried turkey with a golden, flavorful coating.",
+          "picture": "https://goldbelly.imgix.net/uploads/showcase_media_asset/image/132836/whole-golden-fried-turkey.e3c8dc3df2d6d51b96e2a9cb9d3e2c00.jpg?ixlib=react-9.0.2&auto=format&ar=1%3A1"
         },
         {
           "id": 28,
+          "name": "Korean Fried Crispy Chicken",
+          "price": 15.49,
+          "description": "Crispy Korean fried chicken with a sweet and spicy glaze.",
+          "picture": "https://goldbelly.imgix.net/uploads/showcase_media_asset/image/126042/korean-fried-chicken-4-lbs.43aa9cb2165285e3b28089f5be02a21a.jpg?ixlib=react-9.0.2&auto=format&ar=1%3A1"
+        },
+        {
+          "id": 29,
+          "name": "Chicken & Pork Dumplings",
+          "price": 12.99,
+          "description": "Delicious dumplings filled with a blend of chicken and pork.",
+          "picture": "https://goldbelly.imgix.net/uploads/showcase_media_asset/image/106383/mama-mandys-dumplings-50-pack.0f53d98c99e1be1c46a5a51f6c47f190.jpg?ixlib=react-9.0.2&auto=format&ar=1%3A1"
+        },
+        {
+          "id": 30,
           "name": "Hot Party Wings",
-          "price": 30.00,
-          "description": "smooth quality gin 'yagaboom'.",
-          "picture": "https://goldbelly.imgix.net/uploads/showcase_media_asset/image/127462/whole-party-wings-24-pack.b364415bd3fb0b78090d200242f60f04.jpg?ixlib=react-9.0.2&auto=format&ar=1%3A1"
+          "price": 16.99,
+          "description": "Spicy party wings perfect for sharing at gatherings.",
+          "picture": "https://goldbelly.imgix.net/uploads/showcase_media_asset/image/122273/hot-wings-24-pack.2d540c9b1b7bc1d9bff2b982367fb4b7.jpg?ixlib=react-9.0.2&auto=format&ar=1%3A1"
         }
       ]
     }
