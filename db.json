@@ -132,7 +132,7 @@
           "description": "Our special burger with secret sauce and toppings.",
           "picture": "https://goldbelly.imgix.net/uploads/showcase_media_asset/image/137095/Hall-by-Odo-Signature-Burger-1.jpg?ixlib=react-9.0.2&auto=format&ar=1%3A1"
         }
-        
+
       ]
     },
     "soft_drinks": {
@@ -143,35 +143,35 @@
           "name": "Coca Cola",
           "price": 1.99,
           "description": "Classic cola drink.",
-          "picture": "https://www.pexels.com/photo/coca-cola-cans-and-glasses-with-lines-50593/"
+          "picture": "https://i.imgur.com/nJ6LeWv.png"
         },
         {
           "id": 19,
           "name": "Fanta",
           "price": 1.99,
           "description": "Refreshing orange soda.",
-          "picture": "https://www.pexels.com/photo/cans-of-soft-drinks-5860659/"
+          "picture": "https://i.imgur.com/1WDkfme.png"
         },
         {
           "id": 20,
-          "name": "Pepsi",
+          "name": "Sprite",
           "price": 2.49,
           "description": "Refreshing fruit juice drink.",
-          "picture": "https://www.pexels.com/photo/person-holding-pepsi-can-1292294/ss"
+          "picture": "https://i.imgur.com/qP4Nx1x.jpg"
         },
         {
           "id": 21,
-          "name": "Exotic",
+          "name": "Water",
           "price": 2.49,
           "description": "Delicious exotic juice beverage.",
-          "picture": "https://www.pexels.com/photo/exotic-soda-with-bart-print-404178/"
+          "picture": "https://i.imgur.com/0nyJk19.jpg"
         },
         {
           "id": 22,
-          "name": "Lemonade",
+          "name": "Fuzetea",
           "price": 2.99,
           "description": "Homemade lemonade, refreshing and tangy.",
-          "picture": "https://www.pexels.com/photo/opened-soft-drink-bottle-near-flying-lemon-slices-6467798/"
+          "picture": "https://i.imgur.com/dsHumXE.jpg"
         }
       ]
     },
