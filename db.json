@@ -135,43 +135,43 @@
 
       ]
     },
-    "soft_drinks": {
+    "Pizza": {
 
       "items": [
         {
           "id": 18,
-          "name": "Coca Cola",
+          "name": "Slim & Huskys",
           "price": 1.99,
           "description": "Classic cola drink.",
-          "picture": "https://i.imgur.com/nJ6LeWv.png"
+          "picture": "https://goldbelly.imgix.net/uploads/showcase_media_asset/image/134259/pizza-choose-your-own-4-pack.bc138c4f695f74bf78f13204865a9c5b.jpg?ixlib=react-9.0.2&auto=format&ar=1%3A1"
         },
         {
           "id": 19,
-          "name": "Fanta",
+          "name": "Brick Oven Pizza",
           "price": 1.99,
           "description": "Refreshing orange soda.",
-          "picture": "https://i.imgur.com/1WDkfme.png"
+          "picture": "https://goldbelly.imgix.net/uploads/showcase_media_asset/image/71231/wood-fired-pizza-4-pack.8818b2e71ad1149790d0c03413d11996.png?ixlib=react-9.0.2&auto=format&ar=1%3A1"
         },
         {
           "id": 20,
-          "name": "Sprite",
+          "name": "Neapolitan Pizza",
           "price": 2.49,
           "description": "Refreshing fruit juice drink.",
-          "picture": "https://i.imgur.com/qP4Nx1x.jpg"
+          "picture": "https://goldbelly.imgix.net/uploads/showcase_media_asset/image/131875/wood-fired-pizza-choose-your-own-6-pack.fa6cf8ffff1241d50c27d804e566d605.jpg?ixlib=react-9.0.2&auto=format&ar=1%3A1"
         },
         {
           "id": 21,
-          "name": "Water",
+          "name": "Chicago style pizza",
           "price": 2.49,
-          "description": "Delicious exotic juice beverage.",
-          "picture": "https://i.imgur.com/0nyJk19.jpg"
+          "description": "Chicago Style Pizza",
+          "picture": "https://goldbelly.imgix.net/uploads/showcase_media_asset/image/135044/chicago-style-pizza-choose-your-own-3-pack.c97386b561818a977030178b06fa5bda.jpg?ixlib=react-9.0.2&auto=format&ar=1%3A1"
         },
         {
           "id": 22,
-          "name": "Fuzetea",
+          "name": "Pepperoni",
           "price": 2.99,
           "description": "Homemade lemonade, refreshing and tangy.",
-          "picture": "https://i.imgur.com/dsHumXE.jpg"
+          "picture": "https://goldbelly.imgix.net/uploads/showcase_media_asset/image/131666/buffalo-style-pepperoni-pizza-4-pack.1c5ea10d8c7176f0ad4eef363a1f3543.jpg?ixlib=react-9.0.2&auto=format&ar=1%3A1"
         }
       ]
     },
